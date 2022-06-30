@@ -1,0 +1,5 @@
+name = "cloudflare-workers-rest-api-example"
+account_id = ""
+workers_dev = true
+main = "src/index.js"
+compatibility_date = "2022-06-29"
